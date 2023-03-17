@@ -6,6 +6,6 @@ This program is designed to teach basic coding concepts using Scratch and Tello 
 
 Our program is intended for use in libraries and other educational settings, and is designed to be accessible to a wide range of learners. By using Scratch and Tello drones, we hope to engage learners and provide them with a fun and interactive way to learn coding.
 
-In this repository, you will find all the resources you need to implement this program in your own library or educational setting. This includes [lesson PPT](https://docs.google.com/presentation/d/1H4kzaxZzpy5PRoRxw6RpIwBSZsW1XhMGrk17sfJikVg/edit#slide=id.g155bf2e5d64_0_21), instruction, and code examples. We encourage you to use and adapt these resources to fit the needs of your learners.
+In this repository, you will find all the resources you need to implement this program in your own library or educational setting. This includes [lesson PPT](https://docs.google.com/presentation/d/1H4kzaxZzpy5PRoRxw6RpIwBSZsW1XhMGrk17sfJikVg/edit#slide=id.g155bf2e5d64_0_21), [instruction](GetStartedWithScratch.md), and code examples. We encourage you to use and adapt these resources to fit the needs of your learners.
 
 Thank you for your interest in our program, and we hope you find it useful in your own educational endeavors!
