@@ -2,7 +2,7 @@
 
 Welcome to the Scratch and Tello Drone Library Program repository! 
 
-This project is based on the successful program developed by Dan Lou at Palo Alto City Library, and is now being included in the [SJSU iSchool LTI Lab project](https://ischool.sjsu.edu/library-technology-integration-lti-lab) to share with our partners and the rest of the library world.
+This project is based on the successful program developed by Dan Lou at Palo Alto City Library, and is included in the [SJSU iSchool LTI Lab project](https://ischool.sjsu.edu/library-technology-integration-lti-lab) to share with our partners and the rest of the library world.
 
 This program is designed to teach basic coding concepts using Scratch and Tello drones. Scratch is a block-based programming language developed by MIT, which makes it easy for beginners to learn coding concepts. The Tello drone is a small, affordable drone that can be controlled using code.
 
